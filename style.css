@@ -1,0 +1,22 @@
+body{
+    text-align:center;
+    background-color:pink;
+}
+h1{
+    font-size:100px;
+    font-family:cursive;
+}
+h2{
+    font-size:50px;
+    font-family:cursive;
+}
+img{
+    width:35%
+}
+.line
+{
+    height:6px;
+    width:70px;
+    background-color:black;
+    margin:8px auto;
+}
